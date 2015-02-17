@@ -15,8 +15,7 @@ OFFSETS = {UP: (1, 0),
            RIGHT: (0, -1)} 
 
 def shift(line,result_list):
-    
-    """
+   """
    Helper function for merge function
    """
     j_idx = 0
